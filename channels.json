@@ -1,0 +1,57 @@
+[
+  {
+    "id": "RedBullTV.at@SD",
+    "name": "Red Bull TV SD (1080p)",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
+  },
+  {
+    "id": "FUELTV.pt@AU",
+    "name": "FUEL TV AU (1080p)",
+    "url": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8"
+  },
+  {
+    "id": "RacerNetwork.us@SD",
+    "name": "Racer Network (1080p)",
+    "url": "https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8"
+  },
+  {
+    "id": "ACCDigitalNetwork.us@SD",
+    "name": "ACC Digital Network (1080p)",
+    "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "FloHockey.us@HD",
+    "name": "FloHockey (1080p)",
+    "url": "https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "FloRacing.us@HD",
+    "name": "FloRacing (1080p)",
+    "url": "https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "WorldofFreesports.de@SD",
+    "name": "World of Freesports (1080p)",
+    "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "id": "30AGolfKingdom.us@SD",
+    "name": "30A Golf Kingdom (720p)",
+    "url": "https://30a-tv.com/feeds/vidaa/golf.m3u8"
+  },
+  {
+    "id": "FIFAPlus.uk@UnitedStates",
+    "name": "FIFA+ United States (720p)",
+    "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8"
+  },
+  {
+    "id": "StrongmanChampionsLeague.uk@SD",
+    "name": "Strongman Champions League (720p)",
+    "url": "https://rightsboosterltd-scl-1-be.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "id": "RacerSelect.us@SD",
+    "name": "Racer Select (1080p)",
+    "url": "https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8"
+  }
+]
